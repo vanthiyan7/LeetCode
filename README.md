@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/vanthiyan7/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+| [2470-removing-stars-from-a-string](https://github.com/vanthiyan7/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/vanthiyan7/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/vanthiyan7/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/vanthiyan7/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
