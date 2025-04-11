@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vanthiyan7/LeetCode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/vanthiyan7/LeetCode/tree/master/0050-powx-n) |
 | [0319-bulb-switcher](https://github.com/vanthiyan7/LeetCode/tree/master/0319-bulb-switcher) |
+| [2998-count-symmetric-integers](https://github.com/vanthiyan7/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Brainteaser
 |  |
 | ------- |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vanthiyan7/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/vanthiyan7/LeetCode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
