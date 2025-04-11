@@ -66,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/vanthiyan7/LeetCode/tree/master/1791-richest-customer-wealth) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/vanthiyan7/LeetCode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
