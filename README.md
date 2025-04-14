@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/vanthiyan7/LeetCode/tree/master/0050-powx-n) |
 | [0319-bulb-switcher](https://github.com/vanthiyan7/LeetCode/tree/master/0319-bulb-switcher) |
 | [2998-count-symmetric-integers](https://github.com/vanthiyan7/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vanthiyan7/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Brainteaser
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-smallest-index-with-equal-value](https://github.com/vanthiyan7/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vanthiyan7/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2836-neither-minimum-nor-maximum](https://github.com/vanthiyan7/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vanthiyan7/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
