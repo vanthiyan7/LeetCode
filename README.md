@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/vanthiyan7/LeetCode/tree/master/0050-powx-n) |
 | [0319-bulb-switcher](https://github.com/vanthiyan7/LeetCode/tree/master/0319-bulb-switcher) |
 | [1761-count-sorted-vowel-strings](https://github.com/vanthiyan7/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/vanthiyan7/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/vanthiyan7/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/vanthiyan7/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/vanthiyan7/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
