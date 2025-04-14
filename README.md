@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/vanthiyan7/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/vanthiyan7/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/vanthiyan7/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1965-sum-of-digits-in-base-k](https://github.com/vanthiyan7/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/vanthiyan7/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2998-count-symmetric-integers](https://github.com/vanthiyan7/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3817-maximum-containers-on-a-ship](https://github.com/vanthiyan7/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
