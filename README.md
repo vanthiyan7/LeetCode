@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vanthiyan7/LeetCode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/vanthiyan7/LeetCode/tree/master/0050-powx-n) |
 | [0319-bulb-switcher](https://github.com/vanthiyan7/LeetCode/tree/master/0319-bulb-switcher) |
+| [1761-count-sorted-vowel-strings](https://github.com/vanthiyan7/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [2998-count-symmetric-integers](https://github.com/vanthiyan7/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vanthiyan7/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Brainteaser
@@ -101,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/vanthiyan7/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/vanthiyan7/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/vanthiyan7/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
+## Combinatorics
+|  |
+| ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/vanthiyan7/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
