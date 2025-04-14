@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-smallest-index-with-equal-value](https://github.com/vanthiyan7/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vanthiyan7/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2836-neither-minimum-nor-maximum](https://github.com/vanthiyan7/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/vanthiyan7/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vanthiyan7/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/vanthiyan7/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vanthiyan7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vanthiyan7/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/vanthiyan7/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
