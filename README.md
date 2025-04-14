@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/vanthiyan7/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/vanthiyan7/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vanthiyan7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1656-count-good-triplets](https://github.com/vanthiyan7/LeetCode/tree/master/1656-count-good-triplets) |
 | [1791-richest-customer-wealth](https://github.com/vanthiyan7/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/vanthiyan7/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2181-smallest-index-with-equal-value](https://github.com/vanthiyan7/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/vanthiyan7/LeetCode/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/vanthiyan7/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## String
 |  |
