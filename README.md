@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/vanthiyan7/LeetCode/tree/master/0338-counting-bits) |
 | [1761-count-sorted-vowel-strings](https://github.com/vanthiyan7/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 ## Combinatorics
 |  |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/vanthiyan7/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/vanthiyan7/LeetCode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
