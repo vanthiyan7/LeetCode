@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vanthiyan7/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vanthiyan7/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/vanthiyan7/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/vanthiyan7/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0941-sort-array-by-parity](https://github.com/vanthiyan7/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/vanthiyan7/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/vanthiyan7/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vanthiyan7/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/vanthiyan7/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/vanthiyan7/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vanthiyan7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/vanthiyan7/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/vanthiyan7/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2470-removing-stars-from-a-string](https://github.com/vanthiyan7/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/vanthiyan7/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vanthiyan7/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
