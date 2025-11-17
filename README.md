@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/vanthiyan7/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/vanthiyan7/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/vanthiyan7/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vanthiyan7/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vanthiyan7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1656-count-good-triplets](https://github.com/vanthiyan7/LeetCode/tree/master/1656-count-good-triplets) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vanthiyan7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
