@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vanthiyan7/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4008-restore-finishing-order](https://github.com/vanthiyan7/LeetCode/tree/master/4008-restore-finishing-order) |
 | [4058-compute-alternating-sum](https://github.com/vanthiyan7/LeetCode/tree/master/4058-compute-alternating-sum) |
+| [4107-find-missing-elements](https://github.com/vanthiyan7/LeetCode/tree/master/4107-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/vanthiyan7/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/vanthiyan7/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [4008-restore-finishing-order](https://github.com/vanthiyan7/LeetCode/tree/master/4008-restore-finishing-order) |
+| [4107-find-missing-elements](https://github.com/vanthiyan7/LeetCode/tree/master/4107-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vanthiyan7/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/vanthiyan7/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2836-neither-minimum-nor-maximum](https://github.com/vanthiyan7/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
+| [4107-find-missing-elements](https://github.com/vanthiyan7/LeetCode/tree/master/4107-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
