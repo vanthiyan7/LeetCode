@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/vanthiyan7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/vanthiyan7/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1899-count-items-matching-a-rule](https://github.com/vanthiyan7/LeetCode/tree/master/1899-count-items-matching-a-rule) |
+| [1944-truncate-sentence](https://github.com/vanthiyan7/LeetCode/tree/master/1944-truncate-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/vanthiyan7/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2181-smallest-index-with-equal-value](https://github.com/vanthiyan7/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vanthiyan7/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/vanthiyan7/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vanthiyan7/LeetCode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/vanthiyan7/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1944-truncate-sentence](https://github.com/vanthiyan7/LeetCode/tree/master/1944-truncate-sentence) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/vanthiyan7/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2470-removing-stars-from-a-string](https://github.com/vanthiyan7/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vanthiyan7/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
