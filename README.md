@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vanthiyan7/LeetCode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/vanthiyan7/LeetCode/tree/master/0050-powx-n) |
 | [0319-bulb-switcher](https://github.com/vanthiyan7/LeetCode/tree/master/0319-bulb-switcher) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/vanthiyan7/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1761-count-sorted-vowel-strings](https://github.com/vanthiyan7/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/vanthiyan7/LeetCode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/vanthiyan7/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vanthiyan7/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vanthiyan7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1656-count-good-triplets](https://github.com/vanthiyan7/LeetCode/tree/master/1656-count-good-triplets) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/vanthiyan7/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vanthiyan7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/vanthiyan7/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1899-count-items-matching-a-rule](https://github.com/vanthiyan7/LeetCode/tree/master/1899-count-items-matching-a-rule) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/vanthiyan7/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/vanthiyan7/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vanthiyan7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/vanthiyan7/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/vanthiyan7/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vanthiyan7/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/vanthiyan7/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -182,4 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vanthiyan7/LeetCode/tree/master/0496-next-greater-element-i) |
+## Greedy
+|  |
+| ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/vanthiyan7/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## Game Theory
+|  |
+| ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/vanthiyan7/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
