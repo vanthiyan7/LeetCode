@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/vanthiyan7/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/vanthiyan7/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2998-count-symmetric-integers](https://github.com/vanthiyan7/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vanthiyan7/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3817-maximum-containers-on-a-ship](https://github.com/vanthiyan7/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/vanthiyan7/LeetCode/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vanthiyan7/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/vanthiyan7/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/vanthiyan7/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/vanthiyan7/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vanthiyan7/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/vanthiyan7/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/vanthiyan7/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vanthiyan7/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
