@@ -14,10 +14,16 @@ class Solution {
         }
         int[] ans=new int[k];
         int j=0;
+        for(int[] i:minheap)
+        {
+            System.out.println(minheap.peek()[1]);
+        }
         while(!minheap.isEmpty())
         {
             ans[j++]=minheap.remove()[1];
         }
+
+        
         return ans;
 
     }
