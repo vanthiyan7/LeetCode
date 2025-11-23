@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vanthiyan7/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/vanthiyan7/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/vanthiyan7/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/vanthiyan7/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vanthiyan7/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4008-restore-finishing-order](https://github.com/vanthiyan7/LeetCode/tree/master/4008-restore-finishing-order) |
 | [4058-compute-alternating-sum](https://github.com/vanthiyan7/LeetCode/tree/master/4058-compute-alternating-sum) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vanthiyan7/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/vanthiyan7/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/vanthiyan7/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/vanthiyan7/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vanthiyan7/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4008-restore-finishing-order](https://github.com/vanthiyan7/LeetCode/tree/master/4008-restore-finishing-order) |
 | [4107-find-missing-elements](https://github.com/vanthiyan7/LeetCode/tree/master/4107-find-missing-elements) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/vanthiyan7/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/vanthiyan7/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/vanthiyan7/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/vanthiyan7/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/vanthiyan7/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vanthiyan7/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
