@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-capitalize-the-title](https://github.com/vanthiyan7/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/vanthiyan7/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2470-removing-stars-from-a-string](https://github.com/vanthiyan7/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/vanthiyan7/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vanthiyan7/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vanthiyan7/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2470-removing-stars-from-a-string](https://github.com/vanthiyan7/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/vanthiyan7/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Simulation
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/vanthiyan7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/vanthiyan7/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/vanthiyan7/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/vanthiyan7/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vanthiyan7/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
