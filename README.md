@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vanthiyan7/LeetCode/tree/master/0020-valid-parentheses) |
 | [0520-detect-capital](https://github.com/vanthiyan7/LeetCode/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/vanthiyan7/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0657-robot-return-to-origin](https://github.com/vanthiyan7/LeetCode/tree/master/0657-robot-return-to-origin) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vanthiyan7/LeetCode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/vanthiyan7/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2470-removing-stars-from-a-string](https://github.com/vanthiyan7/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/vanthiyan7/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
