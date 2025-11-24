@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-capitalize-the-title](https://github.com/vanthiyan7/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/vanthiyan7/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2470-removing-stars-from-a-string](https://github.com/vanthiyan7/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/vanthiyan7/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/vanthiyan7/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vanthiyan7/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/vanthiyan7/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/vanthiyan7/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/vanthiyan7/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3498-reverse-degree-of-a-string](https://github.com/vanthiyan7/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [4058-compute-alternating-sum](https://github.com/vanthiyan7/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## Matrix
 |  |
