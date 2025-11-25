@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vanthiyan7/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vanthiyan7/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0164-maximum-gap](https://github.com/vanthiyan7/LeetCode/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/vanthiyan7/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vanthiyan7/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/vanthiyan7/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/vanthiyan7/LeetCode/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/vanthiyan7/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0941-sort-array-by-parity](https://github.com/vanthiyan7/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/vanthiyan7/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -227,9 +229,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/vanthiyan7/LeetCode/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/vanthiyan7/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vanthiyan7/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/vanthiyan7/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
