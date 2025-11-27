@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/vanthiyan7/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/vanthiyan7/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/vanthiyan7/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/vanthiyan7/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/vanthiyan7/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/vanthiyan7/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/vanthiyan7/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/vanthiyan7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/vanthiyan7/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vanthiyan7/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/vanthiyan7/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/vanthiyan7/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/vanthiyan7/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/vanthiyan7/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/vanthiyan7/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vanthiyan7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/vanthiyan7/LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/vanthiyan7/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/vanthiyan7/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/vanthiyan7/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/vanthiyan7/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
