@@ -12,13 +12,13 @@ class Solution {
                words[j] = c;
             }
         }
+        String d="";
         for(int i=0;i<words.length;i++)
         {
-            words[i] = words[i].substring(0, words[i].length() - 1);
+            d+= words[i].substring(0, words[i].length() - 1)+" ";
         }
-        String d="";
-        for(String k:words)
-        d+=k+" ";
+       
+       
         return d.trim();
     }
 }
