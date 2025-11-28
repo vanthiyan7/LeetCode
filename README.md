@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/vanthiyan7/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/vanthiyan7/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vanthiyan7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1859-sorting-the-sentence](https://github.com/vanthiyan7/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [1899-count-items-matching-a-rule](https://github.com/vanthiyan7/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vanthiyan7/LeetCode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/vanthiyan7/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/vanthiyan7/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vanthiyan7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/vanthiyan7/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1859-sorting-the-sentence](https://github.com/vanthiyan7/LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/vanthiyan7/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vanthiyan7/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/vanthiyan7/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
