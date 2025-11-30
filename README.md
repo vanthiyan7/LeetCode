@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/vanthiyan7/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/vanthiyan7/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/vanthiyan7/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/vanthiyan7/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/vanthiyan7/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vanthiyan7/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/vanthiyan7/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/vanthiyan7/LeetCode/tree/master/0338-counting-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/vanthiyan7/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vanthiyan7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/vanthiyan7/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Geometry
 |  |
 | ------- |
