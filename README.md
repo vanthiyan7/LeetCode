@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/vanthiyan7/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/vanthiyan7/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/vanthiyan7/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1051-height-checker](https://github.com/vanthiyan7/LeetCode/tree/master/1051-height-checker) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/vanthiyan7/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vanthiyan7/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vanthiyan7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vanthiyan7/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0941-sort-array-by-parity](https://github.com/vanthiyan7/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/vanthiyan7/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [1051-height-checker](https://github.com/vanthiyan7/LeetCode/tree/master/1051-height-checker) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vanthiyan7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/vanthiyan7/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1859-sorting-the-sentence](https://github.com/vanthiyan7/LeetCode/tree/master/1859-sorting-the-sentence) |
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/vanthiyan7/LeetCode/tree/master/0164-maximum-gap) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/vanthiyan7/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
