@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/vanthiyan7/LeetCode/tree/master/1944-truncate-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/vanthiyan7/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2181-smallest-index-with-equal-value](https://github.com/vanthiyan7/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/vanthiyan7/LeetCode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/vanthiyan7/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/vanthiyan7/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/vanthiyan7/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/vanthiyan7/LeetCode/tree/master/0125-valid-palindrome) |
 | [0941-sort-array-by-parity](https://github.com/vanthiyan7/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/vanthiyan7/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/vanthiyan7/LeetCode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
