@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/vanthiyan7/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/vanthiyan7/LeetCode/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/vanthiyan7/LeetCode/tree/master/0319-bulb-switcher) |
+| [1266-minimum-time-visiting-all-points](https://github.com/vanthiyan7/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/vanthiyan7/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/vanthiyan7/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1761-count-sorted-vowel-strings](https://github.com/vanthiyan7/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/vanthiyan7/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1051-height-checker](https://github.com/vanthiyan7/LeetCode/tree/master/1051-height-checker) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/vanthiyan7/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/vanthiyan7/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/vanthiyan7/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/vanthiyan7/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1656-count-good-triplets](https://github.com/vanthiyan7/LeetCode/tree/master/1656-count-good-triplets) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/vanthiyan7/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/vanthiyan7/LeetCode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Monotonic Stack
 |  |
