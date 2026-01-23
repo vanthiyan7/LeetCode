@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/vanthiyan7/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/vanthiyan7/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/vanthiyan7/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3794-reverse-string-prefix](https://github.com/vanthiyan7/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vanthiyan7/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/vanthiyan7/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/vanthiyan7/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/vanthiyan7/LeetCode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [3794-reverse-string-prefix](https://github.com/vanthiyan7/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
