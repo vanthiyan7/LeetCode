@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/vanthiyan7/LeetCode/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/vanthiyan7/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0657-robot-return-to-origin](https://github.com/vanthiyan7/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/vanthiyan7/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/vanthiyan7/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/vanthiyan7/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vanthiyan7/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vanthiyan7/LeetCode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/vanthiyan7/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/vanthiyan7/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [2470-removing-stars-from-a-string](https://github.com/vanthiyan7/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/vanthiyan7/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Simulation
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/vanthiyan7/LeetCode/tree/master/0338-counting-bits) |
+| [0678-valid-parenthesis-string](https://github.com/vanthiyan7/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1761-count-sorted-vowel-strings](https://github.com/vanthiyan7/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
 ## Combinatorics
 |  |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/vanthiyan7/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/vanthiyan7/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/vanthiyan7/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Game Theory
