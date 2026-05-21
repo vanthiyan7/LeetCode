@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/vanthiyan7/LeetCode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/vanthiyan7/LeetCode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/vanthiyan7/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vanthiyan7/LeetCode/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/vanthiyan7/LeetCode/tree/master/0319-bulb-switcher) |
 | [1266-minimum-time-visiting-all-points](https://github.com/vanthiyan7/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vanthiyan7/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/vanthiyan7/LeetCode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/vanthiyan7/LeetCode/tree/master/0338-counting-bits) |
 | [0678-valid-parenthesis-string](https://github.com/vanthiyan7/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1761-count-sorted-vowel-strings](https://github.com/vanthiyan7/LeetCode/tree/master/1761-count-sorted-vowel-strings) |
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/vanthiyan7/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vanthiyan7/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
