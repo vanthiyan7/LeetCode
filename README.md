@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/vanthiyan7/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/vanthiyan7/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/vanthiyan7/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/vanthiyan7/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [4008-restore-finishing-order](https://github.com/vanthiyan7/LeetCode/tree/master/4008-restore-finishing-order) |
 | [4058-compute-alternating-sum](https://github.com/vanthiyan7/LeetCode/tree/master/4058-compute-alternating-sum) |
 | [4107-find-missing-elements](https://github.com/vanthiyan7/LeetCode/tree/master/4107-find-missing-elements) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vanthiyan7/LeetCode/tree/master/0054-spiral-matrix) |
 | [1791-richest-customer-wealth](https://github.com/vanthiyan7/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/vanthiyan7/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Database
 |  |
 | ------- |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vanthiyan7/LeetCode/tree/master/0070-climbing-stairs) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/vanthiyan7/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
